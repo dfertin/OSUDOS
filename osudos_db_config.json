@@ -1,0 +1,7 @@
+{
+  "dbname": "osudos",
+  "user": "postgres",
+  "password": "87780455396",
+  "host": "localhost",
+  "port": "5432"
+}
